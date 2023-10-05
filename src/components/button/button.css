@@ -1,0 +1,32 @@
+.button {
+    padding: 10px 20px;
+    max-width: fit-content;
+    border-radius: 100px;
+    cursor: pointer;
+    line-height: 24px;
+    font-size: 14px;
+    font-weight: 400;
+}
+
+.button:active {
+    transform: scale(0.95);
+}
+
+.add {
+    display: flex;
+    flex-direction: row;
+    gap: 5px;
+    align-items: center;
+    background-color: #fff;
+    color: #01A7FD;
+    border: 2px solid #01A7FD;
+}
+
+.primary {
+    background-color: #01A7FD;
+    color: #fff;
+}
+
+.outline {
+    color: #01A7FD;
+}

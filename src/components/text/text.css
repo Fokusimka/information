@@ -1,0 +1,15 @@
+.textContainer {
+    color: #000;
+    font-size: 16px;
+    font-weight: 700;
+    line-height: 24px;
+    border-radius: 5px;
+    background: #F1F1F1;
+    padding: 10px 20px;
+    max-width: fit-content;
+}
+
+.outline {
+    background-color: #fff;
+    border: none
+}
